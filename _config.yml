@@ -1,6 +1,7 @@
 # Setup
 url:              https://muydipalma.github.io/home
 paginate:         1
+baseurl: ''
 
 # About and contact
 author:
