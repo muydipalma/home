@@ -2,6 +2,7 @@
 url:              https://muydipalma.github.io/home
 paginate:         1
 baseurl: ''
+heading_anchors: true
 
 # About and contact
 author:
