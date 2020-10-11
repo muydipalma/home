@@ -8,12 +8,12 @@ Bienvenido al maravilloso mundo del machine learning! Antes de ponernos comodos 
 
 
 
-* [Datasets](#Datasets)
+* [Datasets](#datasets)
 * [Imagenes y video](#imagenes-y-video)
 * [Variables categoricas](#variables-categoricas)
 * [Regresion Lineal](#regresion-Lineal)
 * [Regularizacion](#regularizacion)
-* [PCA y dimensionalidad](#pCA-y-dimensionalidad)
+* [PCA y dimensionalidad](#pca-y-dimensionalidad)
 * [Text-mining](#text-mining)
 * [Sistemas de recomendacion](#sistemas-de-recomendacion)
 * [Inteligencia artificial](#inteligencia-artificial)
