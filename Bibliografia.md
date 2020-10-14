@@ -61,7 +61,7 @@ Y lo buscamos en SCIHUB:
 https://sci-hub.tf/https://doi.org/10.1016/S0924-2244(02)00010-9
 ```
 
-<img src="https://i.imgur.com/8H6e1Sj.png" alt="drawing" width="450"/>
+<img src="https://i.imgur.com/8H6e1Sj.png" alt="drawing" width="600"/>
 
 
 
