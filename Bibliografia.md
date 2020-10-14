@@ -5,7 +5,7 @@ title: Bibliografia
 
 ### An Introduction to Statistical Learning with Applications in R
 
-![ISL](http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg)
+![ISL](http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg =350x)
 
 Que se puede descargar gratuitamente desde [aca](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
@@ -16,14 +16,14 @@ Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios 
 
 ### Python Data Science Handbook
 
-![](https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png)
+![](https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png =350x)
 
 Con ejercicios resueltos [aca](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 ### Data Science from Scratch, 2nd Edition
 
-![](https://i.imgur.com/UMSKVmi.png)
+![](https://i.imgur.com/UMSKVmi.png =350x)
 
 Con sus ejercicios resueltos [aca](https://github.com/joelgrus/data-science-from-scratch)
 
