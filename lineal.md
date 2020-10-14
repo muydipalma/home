@@ -234,10 +234,10 @@ Para estro primero tenemos que codificar nuestras features como lo hicimos para 
 Veamos como ejemplo, la representacion de los primeros 2 mails:
 
 ``` 
-Clase    ['Ofertas', 'de', 'esta', 'semana', 'Aviso',  'Transferencia', 'Pida', 'su', 'Prestamo', 'Descuento', 'en', 'pañales',..., 'CONOCE']
+Clase    ['Ofertas', 'de', 'esta', 'semana', 'Aviso',  'Transferencia', 'Pida', 'su', 'pañales',..., 'CONOCE']
 
-SPAM     [1,          1,      1,        1,        0,                0,  ,   0,     0,     0,         0,           0,          0, ...      0]
-CLEAN    [0,          1,      0,        0,        1,                1,  ,   0,     0,     0,         0,           0,          0, ...      0]
+SPAM     [1,          1,      1,        1,        0,                0,  ,   0,     0,          0, ...      0]
+CLEAN    [0,          1,      0,        0,        1,                1,  ,   0,     0,          0, ...      0]
 
 ````
 
