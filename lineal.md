@@ -44,6 +44,29 @@ Cada final tiene la misma longitud, esto es el mismo numero de columnas, por lo 
 
 Quizas uno ya trabaje con imagenes o este intersado en computer vision (machine learning para imagenes), para esto cada imagen puede ser pensada como una matriz (ancho x alto) donde cada lugar representa un pixel, y el valor que sera asignado tiene que ver con el color. Si la imagen fuera en blanco y negro, el valor sera en escala de grises. Pero si fuera una imagen en colores, en realidad tendriamos 3 matrices, una para cada color (RGB).
 
+![](0.png)
+
+![](1.png)
+
+´´´
+[1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+[1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+[1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+[1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+[1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1]
+[1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1]
+[1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1]
+
+´´´
 
 Asi, una imagen no es mas que otro ejemplo de el uso de una _matriz_. Entonces cualquier operacion que querramos hacer con imagenes (cropping, scaling, shearing), necesariamente nos obliga a conocer la notacion y las operaciones con matrices.
 
@@ -54,14 +77,15 @@ Y un video? Un video, por ejemplo uno que tenga 30 fotogramas por segundo. Podem
 A veces tenemos sistemas donde algunas variables pueden tomar valores categoricos. Imaginen un dataset con clientes de un supermercado por ejemplo:
 
 ```
-ID     Genero   Estado Civil   Ingreso Mensual     Sucursal          Categoria       Units   Ganancia 
-7223      F              S       $30K - $50K          CABA          Snack Foods          5     27.38 
-7841      M              M       $70K - $90K           CBA           Vegetables          5     14.90 
-8374      F              M       $50K - $70K          CABA          Snack Foods          3      5.52
-9619      M              M       $30K - $50K           MDQ                Candy          4      4.54
-8324      F              M       $50K - $70K          CABA          Snack Foods          3      5.52
-9219      M              M       $30K - $50K           MDQ                Candy          4      6.44
-9219      F              M       $30K - $50K           MDQ           Vegetables          4      6.24
+
+Genero   E.Civil   Ingresos  Sucursal   Categoria   Units   Ganancia 
+   F          S      $50K       CABA   Snack Foods      5     27.38 
+   M          M      $90K        CBA    Vegetables      5     14.90 
+   F          M      $70K       CABA   Snack Foods      3      5.52
+   M          M      $50K        MDQ         Candy      4      4.54
+   F          M      $70K       CABA   Snack Foods      3      5.52
+   M          M      $50K        MDQ         Candy      4      6.44
+   F          M      $50K        MDQ    Vegetables      4      6.24
 
 ``` 
 
