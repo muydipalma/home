@@ -44,9 +44,9 @@ Cada final tiene la misma longitud, esto es el mismo numero de columnas, por lo 
 
 Quizas uno ya trabaje con imagenes o este intersado en computer vision (machine learning para imagenes), para esto cada imagen puede ser pensada como una matriz (ancho x alto) donde cada lugar representa un pixel, y el valor que sera asignado tiene que ver con el color. Si la imagen fuera en blanco y negro, el valor sera en escala de grises. Pero si fuera una imagen en colores, en realidad tendriamos 3 matrices, una para cada color (RGB).
 
-![](0.png)
+![](https://github.com/muydipalma/home/raw/v3/0.png)
 
-![](1.png)
+![](https://github.com/muydipalma/home/raw/v3/1.png)
 
 ```
 [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1]
@@ -114,7 +114,7 @@ Mas alla de la representacion de los datos, veamos un ejemplo mas concreto de ma
 
 Imgenen que tenemos los siguientes datos:
 
-![img0](/fig0.png)
+![img0](https://github.com/muydipalma/home/raw/v3/fig0.png)
 
 Lo primero que una observa es que hay una relacion lineal entre x e y, entonces intentaria postular lo siguiente:
 
