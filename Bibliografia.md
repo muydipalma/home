@@ -7,6 +7,8 @@ title: Bibliografia
 
 ![ISL](http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg =350x)
 
+<img src="http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
+
 Que se puede descargar gratuitamente desde [aca](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios resueltos en python:
