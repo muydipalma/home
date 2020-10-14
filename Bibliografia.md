@@ -5,6 +5,7 @@ title: Bibliografia
 
 ## An Introduction to Statistical Learning 
 
+<br>
 
 
 <img src="http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
@@ -14,18 +15,26 @@ Que se puede descargar gratuitamente desde [aca](http://faculty.marshall.usc.edu
 Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios resueltos en python: [Repo](https://github.com/JWarmenhoven/ISLR-python)
 
 
+
 ## Python Data Science Handbook
 
+<br>
 
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" alt="drawing" width="350"/>
+
+<br>
+
 
 Con ejercicios resueltos [aca](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 ## Data Science from Scratch, 2nd Edition
 
+<br>
 
 <img src="https://i.imgur.com/UMSKVmi.png" alt="drawing" width="350"/>
+
+<br>
 
 Con sus ejercicios resueltos [aca](https://github.com/joelgrus/data-science-from-scratch)
 
@@ -35,6 +44,8 @@ Para bajar este u otros libros:
 [Genesis Library](https://libgen.lc/)
 
 ## Papers
+
+<br>
 
 Otra fuente de consulta son los trabajos academicos de donde salen los principales algoritmos que se usan o incluso implementaciones de estos en algun area de interes. Para esto se googlea el DOI en [google.scholar](https://scholar.google.com/) y luego con ese numero se buscan en [SCI HUB](https://scihub.wikicn.top/) (esta url puede cambiar con el tiempo).
 
