@@ -38,4 +38,30 @@ Para bajar este u otros libros:
 
 ### Papers
 
-Otra fuente de consulta son los trabajos academicos de donde salen los principales algoritmos que se usan, para esto se googlea el DOI en google.scholar y luego con ese numero se buscan en SCI HUB.
+Otra fuente de consulta son los trabajos academicos de donde salen los principales algoritmos que se usan o incluso implementaciones de estos en algun area de interes. Para esto se googlea el DOI en [google.scholar](https://scholar.google.com/) y luego con ese numero se buscan en [SCI HUB](https://scihub.wikicn.top/) (esta url puede cambiar con el tiempo).
+
+Por ejemplo, nos interesa ver implementaciones de machine learning en la industria alimenticia:
+
+[machine learning food industry](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning+food+industry&btnG=&oq=machine+learning+food+in)
+
+Vemos listado este articulo que nos interesa:
+
+[The usefulness of artificial intelligence techniques to assess subjective quality of products in the food industry](https://www.sciencedirect.com/science/article/abs/pii/S0924224402000109)
+
+Copiamos el doi: 
+
+```
+https://doi.org/10.1016/S0924-2244(02)00010-9
+```
+
+Y lo buscamos en SCIHUB:
+
+
+```
+https://sci-hub.tf/https://doi.org/10.1016/S0924-2244(02)00010-9
+```
+
+<img src="https://i.imgur.com/8H6e1Sj.png" alt="drawing" width="450"/>
+
+
+
