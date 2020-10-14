@@ -48,7 +48,7 @@ Quizas uno ya trabaje con imagenes o este intersado en computer vision (machine 
 
 ![](1.png)
 
-´´´
+```
 [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1]
 [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1]
 [1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1]
@@ -65,8 +65,7 @@ Quizas uno ya trabaje con imagenes o este intersado en computer vision (machine 
 [1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1]
 [1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1]
 [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1]
-
-´´´
+```
 
 Asi, una imagen no es mas que otro ejemplo de el uso de una _matriz_. Entonces cualquier operacion que querramos hacer con imagenes (cropping, scaling, shearing), necesariamente nos obliga a conocer la notacion y las operaciones con matrices.
 
