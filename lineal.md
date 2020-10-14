@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algebra Lineal y Machine Learning.
+title: Algebra Lineal y Machine Learning
 ---
 
 
