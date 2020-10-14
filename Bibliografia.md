@@ -6,19 +6,17 @@ title: Bibliografia
 ## An Introduction to Statistical Learning 
 
 
-
+<br>
 <img src="http://faculty.marshall.usc.edu/gareth-james/ISL/ISL%20Cover%202.jpg" alt="drawing" width="350"/>
-
+<br>
 Que se puede descargar gratuitamente desde [aca](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
-Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios resueltos en python:
+Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios resueltos en python: [Repo](https://github.com/JWarmenhoven/ISLR-python)
 
-[Repo](https://github.com/JWarmenhoven/ISLR-python)
-
-
+<br>
 ## Python Data Science Handbook
 
-
+<br>
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" alt="drawing" width="350"/>
 
 Con ejercicios resueltos [aca](https://github.com/jakevdp/PythonDataScienceHandbook)
