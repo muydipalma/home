@@ -3,7 +3,6 @@ layout: page
 title: Flask, Streamlit, Heroku 
 ---
 
-# Flask, Streamlit, Heroku
 
 Existen varias maneras de poner nuestros modelos en produccion, aca vamos a ver dos.
 
@@ -86,4 +85,4 @@ create_config.sh
 
 Esta app esta funcionando en:
 
-https://geopami.herokuapp.com/
+[geopami.herokuapp.com](https://geopami.herokuapp.com/)
