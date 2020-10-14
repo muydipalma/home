@@ -3,7 +3,7 @@ layout: page
 title: Bibliografia
 ---
 
-### An Introduction to Statistical Learning 
+## An Introduction to Statistical Learning 
 
 
 
@@ -16,7 +16,7 @@ Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios 
 [Repo](https://github.com/JWarmenhoven/ISLR-python)
 
 
-### Python Data Science Handbook
+## Python Data Science Handbook
 
 
 <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" alt="drawing" width="350"/>
@@ -24,7 +24,7 @@ Si bien es un libro con ejemplos en R, existe un repositorio con los ejercicios 
 Con ejercicios resueltos [aca](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
-### Data Science from Scratch, 2nd Edition
+## Data Science from Scratch, 2nd Edition
 
 
 <img src="https://i.imgur.com/UMSKVmi.png" alt="drawing" width="350"/>
