@@ -12,6 +12,8 @@ Creo datos de una sola variable y de dos clases,cada clase sera un distrubucion 
 import numpy as np
 from sklearn.datasets import make_blobs
 x, y = make_blobs(n_samples=50, centers=np.array([1,3]).reshape(-1, 1), n_features=1,random_state=1,cluster_std=0.8)
-```python
+```
+
+
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/fig0.html" height="525" width="100%"></iframe>
