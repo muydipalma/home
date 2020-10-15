@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tu app con python 
+title: Apps con python 
 ---
 
 
