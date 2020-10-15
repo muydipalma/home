@@ -41,9 +41,12 @@ x, y = make_blobs(n_samples=50, centers=np.array([1,3]).reshape(-1, 1), n_featur
     frameborder="0">
 </iframe>
 
+## Regresion Logistica desde 0
+
+Escribo mi modelo, creo una clase y le doy el mismo formato que las clases de SKLEARN (con los metodos .fit, .predict)
+
 
 ```python
-# escribo mi modelo, creo una clase y le doy el mismo formato a las clases de SKLEARN
 import copy as copy
 
 class logisticreg:
