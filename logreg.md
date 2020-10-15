@@ -95,7 +95,8 @@ class logisticreg:
         return (self.predict_prob(X) >= threshold).astype(int)
     
                 
-    def __init__(self, lr=0.01, num_iter=100000, fit_intercept=True, verbose=False):
+    def __init__(self, lr=0.01, num_iter=100000,
+                 fit_intercept=True, verbose=False):
         self.lr = lr
         self.num_iter = num_iter
         self.fit_intercept = fit_intercept
@@ -116,21 +117,7 @@ class logisticreg:
     #funcion de costo
     def __loss(self, h, y):
         return (-y * np.log(h) - (1 - y) * np.log(1 - h)).mean()                
-    
 
-    
-    
-    
-    
-    
-    
-# Cosas que voy a usar despues:    
-
-def add_intercept(X):
-    intercept = np.ones((X.shape[0], 1))
-    return np.concatenate((intercept, X), axis=1)
-
-```
 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://muydipalma.github.io/home/assets/img/figi.html" height=900 width=750 ></iframe>
