@@ -19,3 +19,14 @@ x, y = make_blobs(n_samples=50, centers=np.array([1,3]).reshape(-1, 1), n_featur
 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://github.com/muydipalma/home/raw/v3/fig0.html" height="525" width="100%"></iframe>
+
+
+
+<iframe src="https://github.com/muydipalma/home/raw/v3/bfig0.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
