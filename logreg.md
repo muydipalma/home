@@ -133,5 +133,5 @@ def add_intercept(X):
 ```
 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://muydipalma.github.io/home/assets/img/figi.html" height=700 width=750 ></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://muydipalma.github.io/home/assets/img/figi.html" height=900 width=750 ></iframe>
 
