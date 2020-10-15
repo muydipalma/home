@@ -31,7 +31,7 @@ x, y = make_blobs(n_samples=50, centers=np.array([1,3]).reshape(-1, 1), n_featur
     frameborder="0">
 </iframe>
 
-<iframe src="/bfig0.html"
+<iframe src="/assets/img/bfig0.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
