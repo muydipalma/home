@@ -14,7 +14,7 @@ Existen varias maneras de poner nuestros modelos en produccion, aca vamos a ver 
 
 la estructura mas basica de una app de flask:
 
-```python
+```
 from flask import Flask
 app = Flask('mi app')
 @app.route('/',methods=['GET','POST])
