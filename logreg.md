@@ -117,7 +117,7 @@ class logisticreg:
     #funcion de costo
     def __loss(self, h, y):
         return (-y * np.log(h) - (1 - y) * np.log(1 - h)).mean()                
-
+```
 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://muydipalma.github.io/home/assets/img/figi.html" height=900 width=750 ></iframe>
